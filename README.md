@@ -32,8 +32,8 @@ We evaluate the performance of each model using the following metrics:
 
 ## Files in the Repository
 
-- `data/`: Contains the German Credit Dataset in CSV format.
-- `notebooks/`: Jupyter notebooks for data exploration, preprocessing, model training, and evaluation.
+ -Contains the German Credit Dataset in CSV format.
+ -Jupyter notebooks for data exploration, preprocessing, model training, and evaluation.
   
 
 ## Getting Started
@@ -41,8 +41,8 @@ We evaluate the performance of each model using the following metrics:
 To run the code in this repository, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Install the required dependencies listed in `requirements.txt`.
-3. Navigate to the `notebooks/` directory and run the Jupyter notebooks sequentially for data exploration, preprocessing, model training, and evaluation.
+2. Install the required dependencies.
+3. Navigate to the directory and run the Jupyter notebooks sequentially for data exploration, preprocessing, model training, and evaluation.
 
 ## Results
 
