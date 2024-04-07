@@ -9,7 +9,7 @@ In this project, we explore the performance of different machine learning algori
 
 ## Dataset
 
-The German Credit Dataset consists of 1000 instances with 20 features, including both numerical and categorical variables. The target variable indicates whether the individual is a good credit risk (label '1') or a bad credit risk (label '0').
+The German Credit Dataset consists of 1000 instances with 10 features, including both numerical and categorical variables. The target variable indicates whether the individual is a good credit risk (label '1') or a bad credit risk (label '0').
 
 ## Models Explored
 
